@@ -1,5 +1,5 @@
 # ctc_tensorflow_taiwanese_speech
-Taiwanese Recognizable speech using tensorflow CTC, Deep Learning taiwanese recognization homework 1 at NTUT.
+Taiwanese Recognizable speech using tensorflow CTC, Deep Learning taiwanese recognization homework 2 at NTUT.
 
 Step1. create dir and go to dir.
 
