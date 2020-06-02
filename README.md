@@ -1,7 +1,7 @@
 # ctc_tensorflow_taiwanese_speech
 Taiwanese Recognizable speech using tensorflow CTC, Deep Learning taiwanese recognization homework 1 at NTUT.
 
-Step1. go to kaldi workspace
+Step1. create dir and ro to dir.
 
 ``` bash
 $ mkdir ctc_tensorlow_speech
