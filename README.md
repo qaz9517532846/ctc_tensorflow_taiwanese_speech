@@ -18,7 +18,7 @@ $ chmod +x 22k_16k.sh
 ```
 
 ``` bash
-$ ./wav22k_16k.sh
+$ ./22k_16k.sh
 ```
 
 result: generate 16k audo wave file to train/wav48/p255/wav and train/wav48/p255/wav.
