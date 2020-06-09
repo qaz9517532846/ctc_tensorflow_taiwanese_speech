@@ -11,7 +11,7 @@ $ mkdir ctc_tensorlow_speech
 $ cd ctc_tensorlow_speech
 ```
 
-Step2. run bash file with convert audo sample rate .
+Step2. run bash file with convert audo sample rate 16.
 
 ``` bash
 $ chmod +x 22k_16k.sh
