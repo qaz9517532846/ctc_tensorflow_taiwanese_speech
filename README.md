@@ -69,7 +69,7 @@ $ chmod +x ctc_tensorflow_save_model_lstm.py
 $ python3 ctc_tensorflow_save_model_lstm.py
 ```
 
-4-4
+4-4 CNN-LSTM
 ``` bash
 $ chmod +x ctc_tensorflow_save_model_cnn_lstm.py
 ```
