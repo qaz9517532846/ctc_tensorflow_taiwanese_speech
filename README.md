@@ -78,7 +78,15 @@ $ chmod +x ctc_tensorflow_save_model_cnn_lstm.py
 $ python3 ctc_tensorflow_save_model_cnn_lstm.py
 ```
 
-Step.5 load model and test.
+Step.5 model result plot.
+``` bash
+$ chmod +x data_plot.py
+```
+
+``` bash
+$ python3 data_plot.py
+
+Step.6 load model and test.
 
 ``` bash
 $ chmod +x ctc_tensorflow_test.py
@@ -88,7 +96,7 @@ $ chmod +x ctc_tensorflow_test.py
 $ python3 ctc_tensorflow_test.py
 ```
 
-Step6. convert txt to csv file.
+Step7. convert txt to csv file.
 ``` bash
 $ chmod +x HW_text2csv.py
 ```
