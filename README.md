@@ -85,6 +85,7 @@ $ chmod +x data_plot.py
 
 ``` bash
 $ python3 data_plot.py
+```
 
 Step.6 load model and test.
 
