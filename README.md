@@ -69,11 +69,30 @@ $ chmod +x ctc_tensorflow_save_model_lstm.py
 $ python3 ctc_tensorflow_save_model_lstm.py
 ```
 
-4-4 CNN-LSTM
+4-4. CNN-LSTM
 ``` bash
 $ chmod +x ctc_tensorflow_save_model_cnn_lstm.py
 ```
 
 ``` bash
 $ python3 ctc_tensorflow_save_model_cnn_lstm.py
+```
+
+Step.5 load model and test.
+
+``` bash
+$ chmod +x ctc_tensorflow_test.py
+```
+
+``` bash
+$ python3 ctc_tensorflow_test.py
+```
+
+Step6. convert txt to csv file.
+``` bash
+$ chmod +x HW_text2csv.py
+```
+
+``` bash
+$ python3 HW_text2csv.py
 ```
