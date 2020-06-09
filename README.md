@@ -22,3 +22,58 @@ $ ./22k_16k.sh
 ```
 
 result: generate 16k audo wave file to train/wav48/p255/wav and train/wav48/p255/wav.
+
+Step3. run python csv convert txt file.
+``` bash
+$ chmod +x HW2_csv2txt.py
+```
+
+``` bash
+$ chmod +x HW2_test_csv2txt.py
+```
+
+``` bash
+$ python3 HW2_csv2txt.py
+```
+
+``` bash
+$ python3 HW2_test_csv2txt.py
+```
+
+Step4. run tensorflow network example.(CNN, ResNet, LSTM, CNN-LSTM) 
+
+4-1. CNN
+``` bash
+$ chmod +x ctc_tensorflow_save_model_cnn.py
+```
+
+``` bash
+$ python3 ctc_tensorflow_save_model_cnn.py
+```
+
+4-2. Resnet
+``` bash
+$ chmod +x ctc_tensorflow_save_model_resnet.py
+```
+
+``` bash
+$ python3 ctc_tensorflow_save_model_resnet.py
+```
+
+4-3. LSTM
+``` bash
+$ chmod +x ctc_tensorflow_save_model_lstm.py
+```
+
+``` bash
+$ python3 ctc_tensorflow_save_model_lstm.py
+```
+
+4-4
+``` bash
+$ chmod +x ctc_tensorflow_save_model_cnn_lstm.py
+```
+
+``` bash
+$ python3 ctc_tensorflow_save_model_cnn_lstm.py
+```
