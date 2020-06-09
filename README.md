@@ -10,6 +10,9 @@ $ mkdir ctc_tensorlow_speech
 ``` bash
 $ cd ctc_tensorlow_speech
 ```
+dir tree:
+
+![image](https://github.com/qaz9517532846/ctc_tensorflow_taiwanese_speech/blob/master/result/dir_tree.jpg)
 
 Step2. run bash file with convert audo sample rate 16.
 
@@ -86,6 +89,12 @@ $ chmod +x data_plot.py
 ``` bash
 $ python3 data_plot.py
 ```
+
+train cost result:
+![image](https://github.com/qaz9517532846/ctc_tensorflow_taiwanese_speech/blob/master/result/cost_result.jpeg)
+
+train ler result:
+![image](https://github.com/qaz9517532846/ctc_tensorflow_taiwanese_speech/blob/master/result/ler_result.jpeg)
 
 Step.6 load model and test.
 
