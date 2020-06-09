@@ -14,7 +14,7 @@ dir tree:
 
 ![image](https://github.com/qaz9517532846/ctc_tensorflow_taiwanese_speech/blob/master/result/dir_tree.jpg)
 
-Step2. run bash file with convert audo sample rate 16.
+Step2. run bash file with convert audo sample rate 16k.
 
 ``` bash
 $ chmod +x 22k_16k.sh
